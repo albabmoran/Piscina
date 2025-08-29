@@ -1,3 +1,3 @@
 #!/bin/bash
-git log --oneline -5
+git log -5 --pretty=%H
 
